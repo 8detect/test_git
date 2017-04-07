@@ -2,4 +2,3 @@ this is line 1
 this is line 2 unmodified
 this is line 3 added
 this is for version 3
-this is for version 4
